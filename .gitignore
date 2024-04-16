@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+## Ignore data too large for hosting on GitHub
+data/a_raw_data/industry_navigation/AISVesselTransitCounts*
+data/a_raw_data/industry_navigation/VesselTransitCounts*
