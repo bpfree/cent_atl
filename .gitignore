@@ -4,5 +4,9 @@
 .Ruserdata
 
 ## Ignore data too large for hosting on GitHub
-data/a_raw_data/industry_navigation/AISVesselTransitCounts*
-data/a_raw_data/industry_navigation/VesselTransitCounts*
+data/a_raw_data/AISVesselTransitCounts*
+data/a_raw_data/VesselTransitCounts*
+data/a_raw_data/ais_vtc*
+data/a_raw_data/Cent_Atl_Depth.gdb
+
+data/b_intermediate_data/ca_ais_2015_2022*
