@@ -27,7 +27,7 @@ pacman::p_load(dplyr,
 
 # set directories
 ## download directory
-download_dir <- "data/a_raw_data/industry_navigation"
+download_dir <- "data/a_raw_data"
 
 #####################################
 #####################################
